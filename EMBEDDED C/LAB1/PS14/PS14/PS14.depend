@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638823593 source:c:\users\aelbanawi\desktop\embedded c\lab1\ps14\ps14\main.c
+	<stdio.h>
+	<string.h>
+

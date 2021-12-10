@@ -6,3 +6,5 @@ Embedded C is a subset from C Programming with the following charactristics:
                 in embedded c we learn how to wirte portable code that can be run on differents compilers(using C standardd).
 - Readability.
 - Maintability.
+- Increasing Speed.
+- Reducing Code Size
